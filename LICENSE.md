@@ -1,4 +1,4 @@
-
+Get the ultimate Obsidian for Windows addon with Obsidian for Windows exclusive Addon: rich-text-editing & backlinks. Featuring rich-text-editing and backlinks, it's the best
 
 
 
